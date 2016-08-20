@@ -10,4 +10,5 @@
     ~/.zshrc.local: zshrc
     ~/.nvimrc: nvimrc
     ~/.nvimplugs: nvimplugs
+    ~/.banner: banner
 
