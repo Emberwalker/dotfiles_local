@@ -1,0 +1,25 @@
+" See plugins.vim in main dotfiles for categories
+
+let g:plugin_groups = []
+" JVM
+"call add(g:plugin_groups, 'java')
+"call add(g:plugin_groups, 'scala')
+"call add(g:plugin_groups, 'kotlin')
+" Dynamics
+"call add(g:plugin_groups, 'python')
+"call add(g:plugin_groups, 'ruby')
+"call add(g:plugin_groups, 'javascript')
+"call add(g:plugin_groups, 'typescript')
+" System languages
+call add(g:plugin_groups, 'c')
+call add(g:plugin_groups, 'c++')
+"call add(g:plugin_groups, 'go')
+"call add(g:plugin_groups, 'rust')
+" Functional
+"call add(g:plugin_groups, 'haskell')
+" documentation
+call add(g:plugin_groups, 'markdown')
+"call add(g:plugin_groups, 'restructured_text')
+" other
+call add(g:plugin_groups, 'autocomplete')
+

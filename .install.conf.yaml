@@ -1,0 +1,13 @@
+- defaults:
+    link:
+      create: true
+      relink: true
+      force: true
+
+- clean: ['~', '~/.config']
+
+- link:
+    ~/.zshrc.local: zshrc
+    ~/.nvimrc: nvimrc
+    ~/.nvimplugs: nvimplugs
+
