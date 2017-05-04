@@ -14,7 +14,7 @@ let g:plugin_groups = []
 call add(g:plugin_groups, 'c')
 call add(g:plugin_groups, 'c++')
 call add(g:plugin_groups, 'go')
-call add(g:plugin_groups, 'rust')
+"call add(g:plugin_groups, 'rust')
 " Functional
 "call add(g:plugin_groups, 'haskell')
 call add(g:plugin_groups, 'elixir')
